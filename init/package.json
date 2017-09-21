@@ -26,6 +26,7 @@
     "builder-react-component-dev": "<%= archetype.devPackage.version ? '^' + archetype.devPackage.version : '*' %>",
     "react": "^0.14.0",
     "react-addons-test-utils": "^0.14.0",
+    "enzyme": "^2.9.1",
     "react-dom": "^0.14.0"
   }
 }
